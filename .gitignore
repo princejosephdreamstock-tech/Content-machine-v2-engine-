@@ -1,0 +1,12 @@
+*.env
+*.env*
+.env2
+*.log
+__pycache__/
+*.pyc
+*.bak
+*.bak.*
+*.pre_*
+.q_*_lastid
+token.json
+*/token.json
