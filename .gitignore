@@ -10,3 +10,4 @@ __pycache__/
 .q_*_lastid
 token.json
 */token.json
+*.bak*
